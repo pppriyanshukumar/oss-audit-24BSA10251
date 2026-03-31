@@ -1,8 +1,8 @@
-# Open Source Audit - Sparsh Kumar Suman
+# Open Source Audit -   Priyanshu Kumar
 
 ## Student Details
-- **Name:** Sparsh Kumar Suman
-- **Roll Number:** 24BAI10205
+- **Name:** Priyanshu Kumar 
+- **Roll Number:** 24BSA10251
 - **Course:** Open Source Software
 - **Chosen Software:** Python
 
